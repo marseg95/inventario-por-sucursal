@@ -1,0 +1,101 @@
+id_producto,producto,categoria,sucursal,cantidad,stock_minimo,precio_unitario,costo_unitario
+P001,Refrigeradora 10 pies,Electrodomesticos,San Salvador,16,25,420.0,310.0
+P002,Cocina a gas 4 hornillas,Electrodomesticos,San Salvador,124,18,260.0,190.0
+P003,Licuadora 600W,Electrodomesticos,San Salvador,81,27,45.0,31.0
+P004,Plancha de vapor,Electrodomesticos,San Salvador,16,23,28.0,19.0
+P005,Laptop 15 pulgadas,Tecnologia,San Salvador,38,11,550.0,430.0
+P006,Telefono celular,Tecnologia,San Salvador,100,29,220.0,165.0
+P007,Television 43 pulgadas,Tecnologia,San Salvador,140,25,340.0,260.0
+P008,Audifonos inalambricos,Tecnologia,San Salvador,137,25,35.0,22.0
+P009,Juego de sabanas,Hogar,San Salvador,97,12,32.0,20.0
+P010,Juego de ollas,Hogar,San Salvador,160,19,58.0,38.0
+P011,Silla plastica,Hogar,San Salvador,96,17,12.0,7.5
+P012,Mesa de comedor,Hogar,San Salvador,33,28,190.0,130.0
+P013,Taladro electrico,Ferreteria,San Salvador,148,22,75.0,52.0
+P014,Juego de destornilladores,Ferreteria,San Salvador,76,26,18.0,11.0
+P015,Pintura galon,Ferreteria,San Salvador,104,18,24.0,16.0
+P016,Cemento bolsa,Ferreteria,San Salvador,86,14,9.5,7.2
+P017,Aceite 1 litro,Alimentos,San Salvador,17,21,2.8,2.1
+P018,Arroz 5 libras,Alimentos,San Salvador,169,11,4.2,3.3
+P019,Frijol 5 libras,Alimentos,San Salvador,163,26,5.5,4.4
+P020,Azucar 5 libras,Alimentos,San Salvador,52,22,3.6,2.9
+P001,Refrigeradora 10 pies,Electrodomesticos,Santa Ana,20,25,420.0,310.0
+P002,Cocina a gas 4 hornillas,Electrodomesticos,Santa Ana,92,17,260.0,190.0
+P003,Licuadora 600W,Electrodomesticos,Santa Ana,8,29,45.0,31.0
+P004,Plancha de vapor,Electrodomesticos,Santa Ana,58,27,28.0,19.0
+P005,Laptop 15 pulgadas,Tecnologia,Santa Ana,89,25,550.0,430.0
+P006,Telefono celular,Tecnologia,Santa Ana,100,13,220.0,165.0
+P007,Television 43 pulgadas,Tecnologia,Santa Ana,47,19,340.0,260.0
+P008,Audifonos inalambricos,Tecnologia,Santa Ana,64,10,35.0,22.0
+P009,Juego de sabanas,Hogar,Santa Ana,71,13,32.0,20.0
+P010,Juego de ollas,Hogar,Santa Ana,97,23,58.0,38.0
+P011,Silla plastica,Hogar,Santa Ana,121,24,12.0,7.5
+P012,Mesa de comedor,Hogar,Santa Ana,47,29,190.0,130.0
+P013,Taladro electrico,Ferreteria,Santa Ana,53,16,75.0,52.0
+P014,Juego de destornilladores,Ferreteria,Santa Ana,118,17,18.0,11.0
+P015,Pintura galon,Ferreteria,Santa Ana,9,19,24.0,16.0
+P016,Cemento bolsa,Ferreteria,Santa Ana,104,13,9.5,7.2
+P017,Aceite 1 litro,Alimentos,Santa Ana,60,12,2.8,2.1
+P018,Arroz 5 libras,Alimentos,Santa Ana,90,19,4.2,3.3
+P019,Frijol 5 libras,Alimentos,Santa Ana,42,14,5.5,4.4
+P020,Azucar 5 libras,Alimentos,Santa Ana,73,23,3.6,2.9
+P001,Refrigeradora 10 pies,Electrodomesticos,San Miguel,112,18,420.0,310.0
+P002,Cocina a gas 4 hornillas,Electrodomesticos,San Miguel,19,26,260.0,190.0
+P003,Licuadora 600W,Electrodomesticos,San Miguel,75,24,45.0,31.0
+P004,Plancha de vapor,Electrodomesticos,San Miguel,11,16,28.0,19.0
+P005,Laptop 15 pulgadas,Tecnologia,San Miguel,92,26,550.0,430.0
+P006,Telefono celular,Tecnologia,San Miguel,52,26,220.0,165.0
+P007,Television 43 pulgadas,Tecnologia,San Miguel,101,17,340.0,260.0
+P008,Audifonos inalambricos,Tecnologia,San Miguel,107,15,35.0,22.0
+P009,Juego de sabanas,Hogar,San Miguel,28,23,32.0,20.0
+P010,Juego de ollas,Hogar,San Miguel,76,12,58.0,38.0
+P011,Silla plastica,Hogar,San Miguel,99,13,12.0,7.5
+P012,Mesa de comedor,Hogar,San Miguel,96,10,190.0,130.0
+P013,Taladro electrico,Ferreteria,San Miguel,95,25,75.0,52.0
+P014,Juego de destornilladores,Ferreteria,San Miguel,93,23,18.0,11.0
+P015,Pintura galon,Ferreteria,San Miguel,56,24,24.0,16.0
+P016,Cemento bolsa,Ferreteria,San Miguel,33,25,9.5,7.2
+P017,Aceite 1 litro,Alimentos,San Miguel,66,19,2.8,2.1
+P018,Arroz 5 libras,Alimentos,San Miguel,60,21,4.2,3.3
+P019,Frijol 5 libras,Alimentos,San Miguel,4,12,5.5,4.4
+P020,Azucar 5 libras,Alimentos,San Miguel,29,12,3.6,2.9
+P001,Refrigeradora 10 pies,Electrodomesticos,La Libertad,41,23,420.0,310.0
+P002,Cocina a gas 4 hornillas,Electrodomesticos,La Libertad,62,19,260.0,190.0
+P003,Licuadora 600W,Electrodomesticos,La Libertad,81,21,45.0,31.0
+P004,Plancha de vapor,Electrodomesticos,La Libertad,7,25,28.0,19.0
+P005,Laptop 15 pulgadas,Tecnologia,La Libertad,54,22,550.0,430.0
+P006,Telefono celular,Tecnologia,La Libertad,53,21,220.0,165.0
+P007,Television 43 pulgadas,Tecnologia,La Libertad,8,21,340.0,260.0
+P008,Audifonos inalambricos,Tecnologia,La Libertad,76,16,35.0,22.0
+P009,Juego de sabanas,Hogar,La Libertad,57,10,32.0,20.0
+P010,Juego de ollas,Hogar,La Libertad,32,18,58.0,38.0
+P011,Silla plastica,Hogar,La Libertad,93,14,12.0,7.5
+P012,Mesa de comedor,Hogar,La Libertad,26,18,190.0,130.0
+P013,Taladro electrico,Ferreteria,La Libertad,95,27,75.0,52.0
+P014,Juego de destornilladores,Ferreteria,La Libertad,3,14,18.0,11.0
+P015,Pintura galon,Ferreteria,La Libertad,78,11,24.0,16.0
+P016,Cemento bolsa,Ferreteria,La Libertad,81,15,9.5,7.2
+P017,Aceite 1 litro,Alimentos,La Libertad,88,15,2.8,2.1
+P018,Arroz 5 libras,Alimentos,La Libertad,41,23,4.2,3.3
+P019,Frijol 5 libras,Alimentos,La Libertad,12,21,5.5,4.4
+P020,Azucar 5 libras,Alimentos,La Libertad,48,25,3.6,2.9
+P001,Refrigeradora 10 pies,Electrodomesticos,Sonsonate,71,23,420.0,310.0
+P002,Cocina a gas 4 hornillas,Electrodomesticos,Sonsonate,29,18,260.0,190.0
+P003,Licuadora 600W,Electrodomesticos,Sonsonate,30,26,45.0,31.0
+P004,Plancha de vapor,Electrodomesticos,Sonsonate,22,13,28.0,19.0
+P005,Laptop 15 pulgadas,Tecnologia,Sonsonate,24,10,550.0,430.0
+P006,Telefono celular,Tecnologia,Sonsonate,7,11,220.0,165.0
+P007,Television 43 pulgadas,Tecnologia,Sonsonate,55,24,340.0,260.0
+P008,Audifonos inalambricos,Tecnologia,Sonsonate,49,19,35.0,22.0
+P009,Juego de sabanas,Hogar,Sonsonate,51,13,32.0,20.0
+P010,Juego de ollas,Hogar,Sonsonate,64,20,58.0,38.0
+P011,Silla plastica,Hogar,Sonsonate,67,13,12.0,7.5
+P012,Mesa de comedor,Hogar,Sonsonate,35,23,190.0,130.0
+P013,Taladro electrico,Ferreteria,Sonsonate,35,18,75.0,52.0
+P014,Juego de destornilladores,Ferreteria,Sonsonate,11,17,18.0,11.0
+P015,Pintura galon,Ferreteria,Sonsonate,16,16,24.0,16.0
+P016,Cemento bolsa,Ferreteria,Sonsonate,49,22,9.5,7.2
+P017,Aceite 1 litro,Alimentos,Sonsonate,43,17,2.8,2.1
+P018,Arroz 5 libras,Alimentos,Sonsonate,69,11,4.2,3.3
+P019,Frijol 5 libras,Alimentos,Sonsonate,24,12,5.5,4.4
+P020,Azucar 5 libras,Alimentos,Sonsonate,24,29,3.6,2.9
